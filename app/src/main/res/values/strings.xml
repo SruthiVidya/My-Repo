@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StopWatch</string>
+    <string name="start">Stop Timer</string>
+    <string name="stop">Start Timer</string>
+    <string name="working">Started</string>
+    <string name="stopped">Stopped</string>
+</resources>
